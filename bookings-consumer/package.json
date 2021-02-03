@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "aws-sdk": "^2.831.0"
+  },
+  "name": "bookings-consumer",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "dependencies": {
+    "base64-js": "^1.5.1",
+    "buffer": "^4.9.2",
+    "events": "^1.1.1",
+    "ieee754": "^1.1.13",
+    "isarray": "^1.0.0",
+    "jmespath": "^0.15.0",
+    "moment": "^2.29.1",
+    "punycode": "^1.3.2",
+    "querystring": "^0.2.0",
+    "sax": "^1.2.1",
+    "url": "^0.10.3",
+    "uuid": "^3.3.2",
+    "xml2js": "^0.4.19",
+    "xmlbuilder": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
